@@ -1,65 +1,41 @@
-# Front-End Web Development Portfolio
+# 🖥️ Front-End Web Development Portfolio
 
-A responsive, single-page personal portfolio built with plain **HTML, CSS and JavaScript** (no frameworks, no build step). The design follows a **blueprint / technical-drawing** theme: a navy grid backdrop, paper-style "sheet" cards, monospace typography and amber accents.
+A responsive, single-page portfolio website built with plain **HTML, CSS and JavaScript**. It has a **blueprint / engineering-drawing theme**: each section is styled like a numbered sheet, and the page opens with a "title block" that introduces me.
 
-## Features
+## ✨ What's Inside
 
-- Blueprint-style layout with a fixed CSS grid backdrop
-- Sections: Hero / Title Block, About, Projects, Skills, Contact
-- Fully responsive (desktop, tablet and mobile breakpoints)
-- Smooth scrolling and a sticky, blurred navigation bar
-- Reveal-on-scroll animations using the `IntersectionObserver` API, with a fallback for unsupported browsers
-- Staggered hero entrance animation on page load
-- Active navigation link highlighting while scrolling
-- Respects `prefers-reduced-motion` for accessibility
-- Accessible details: semantic HTML, `:focus-visible` outlines, `aria-hidden` on decorative elements
+- **Hero / title block:** my name, role, location and current status
+- **About:** a short introduction to my background and goals
+- **Projects ("Selected Drawings"):** cards for my School Website, Tic Tac Toe (C++) and Calculator (C#) projects
+- **Skills ("Materials Legend"):** the languages and tools I work with
+- **Contact:** email, phone and location
 
-## Tech Stack
+## 🎨 Design Highlights
 
-| Layer | Technology |
-| --- | --- |
-| Markup | HTML5 |
-| Styling | CSS3 (custom properties, Grid, Flexbox, media queries) |
-| Behaviour | Vanilla JavaScript (ES6+) |
-| Fonts | Google Fonts — Space Mono, IBM Plex Sans, IBM Plex Mono |
+- Blueprint grid background and sheet-style cards
+- Smooth reveal animations as you scroll
+- Fixed navigation bar with links to every section
+- Responsive layout that works on phones, tablets and computers
+- Custom fonts from Google Fonts (Space Mono and IBM Plex)
 
-## Project Structure
+## 🛠️ Built With
 
-```
-Front-end-web-development-portfolio/
-├── code/
-│   ├── index.html    # Page structure and content
-│   ├── style.css     # Design tokens, layout and styling
-│   └── script.js     # Scroll reveal, hero entrance, nav highlight
-└── README.md
-```
+| Area | Tools |
+|------|-------|
+| Structure | HTML5 |
+| Styling | CSS3 |
+| Interaction | JavaScript |
 
-## Getting Started
+## 🚀 Run It Locally
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/ayeshakhan69673-source/Front-end-web-development-portfolio.git
    ```
-2. **Open the project folder**
-   ```bash
-   cd Front-end-web-development-portfolio/code
-   ```
-3. **Run it** — open `index.html` in any modern browser, or use a local server such as the VS Code *Live Server* extension.
+2. Open the folder and double-click **`index.html`** to view the site in your browser.
 
-No installation or dependencies required (an internet connection is only needed to load the Google Fonts).
+No installation is needed.
 
-## Customisation
+## 📬 Contact
 
-Colours, fonts and the content width are controlled by CSS variables at the top of `style.css`:
-
-```css
-:root {
-  --navy: #0F2942;
-  --paper: #F3EFE4;
-  --amber: #E0A64A;
-  --max-width: 1080px;
-}
-```
-
-
-
+[LinkedIn](https://www.linkedin.com/in/ayesha-khan-dev/) · [GitHub](https://github.com/ayeshakhan69673-source)
