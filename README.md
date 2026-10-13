@@ -61,38 +61,5 @@ Colours, fonts and the content width are controlled by CSS variables at the top 
 }
 ```
 
-To add a new project, copy an `<article class="sheet">` block inside the `.sheet-grid` in `index.html` and update the title, description, tags and link.
 
-## Projects Featured
 
-| Project | Tech | Link |
-| --- | --- | --- |
-| School Website | HTML, CSS, JavaScript, Database | — |
-| Multiplayer Tic Tac Toe | C++ | [Repository](https://github.com/ayeshakhan69673-source/TicTacToe-CPP) |
-| Calculator Application | C#, WinForms | [Repository](https://github.com/ayeshakhan69673-source/Calculator) |
-
-## Skills
-
-C++ · C# · HTML · CSS · JavaScript · SQL Server · MySQL · Microsoft Office
-
-## Deployment (GitHub Pages)
-
-1. Go to **Settings → Pages** in this repository.
-2. Under *Build and deployment*, choose **Deploy from a branch** and select `main`.
-3. Save, then wait a minute for the site to go live.
-
-> Tip: GitHub Pages serves `index.html` from the root or `/docs` folder. Since your files live in `/code`, either move them to the repository root, or rename the folder to `docs` and select `/docs` as the source.
-
-## About Me
-
-BS Computer Science graduate from the University of Gujrat (3.4 GPA, 2026), skilled in full-stack web development with HTML, CSS, JavaScript and ASP.NET MVC. Open to opportunities.
-
-## Contact
-
-- **Email:** [ayeshakhan69673@gmail.com](mailto:ayeshakhan69673@gmail.com)
-- **GitHub:** [@ayeshakhan69673-source](https://github.com/ayeshakhan69673-source)
-- **Location:** Rawalpindi, Pakistan
-
-## License
-
-© 2026 Ayesha Khan. All rights reserved.
