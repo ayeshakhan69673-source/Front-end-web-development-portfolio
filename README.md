@@ -1,4 +1,4 @@
-# Ayesha Khan — Front-End Web Development Portfolio
+# Front-End Web Development Portfolio
 
 A responsive, single-page personal portfolio built with plain **HTML, CSS and JavaScript** (no frameworks, no build step). The design follows a **blueprint / technical-drawing** theme: a navy grid backdrop, paper-style "sheet" cards, monospace typography and amber accents.
 
